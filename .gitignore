@@ -1,0 +1,7 @@
+# Debug dir
+
+TestAPI/bin/Debug/
+TestAPI/obj/
+
+# vs
+.vs
